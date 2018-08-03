@@ -1,0 +1,24 @@
+body {
+    margin:0;
+}
+h1 {
+    margin:0;
+
+}
+header {
+    background-color:cyan;
+    color:white;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav a{
+
+    padding: 5px 15px;
+    text-decoration:none;
+    color:rgba(0,0,0,.5);
+    font-weight:bold;
+    text-transform:uppercase;
+    
+}
